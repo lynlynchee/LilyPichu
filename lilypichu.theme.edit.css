@@ -15,7 +15,7 @@
   /* --- User variables --- */
 
   /* Jumping GIF */
-  --jumping-gif: url("https://i.imgur.com/dCd49s0.gif");
+  --jumping-gif: url("https://cdn.discordapp.com/attachments/1118883762256744508/1134859615843127387/catto.gif");
 
   /* Background (if you want an image replace it by : 
 
@@ -110,8 +110,8 @@
   --interactive-active: #b36f7f;
 
   /* Background color */
-  --background-primary: #ffffff;
-  --background-secondary: #ffeeee;
+  --background-primary: #FFDFED;
+  --background-secondary: #FFCEE4;
   --background-secondary-alt: #fdc7c7;
   --background-tertiary: #ffbbbb;
   --background-floating: #ffbbbb;
