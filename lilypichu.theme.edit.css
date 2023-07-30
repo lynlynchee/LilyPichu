@@ -20,7 +20,7 @@
   /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
-  --background-tertiary-alt:;
+  --background-tertiary-alt: url("https://cdn.discordapp.com/attachments/1118883762256744508/1134721952133677106/91177042_p0.jpg");
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
@@ -116,7 +116,7 @@
   --background-tertiary: #ffbbbb;
   --background-floating: #ffbbbb;
   --background-accent: #FFDDEB;
-  --channeltextarea-background: var(--background-secondary);
+  --channeltextarea-background: var(--background-secondary); 0.6%;
   --background-modifier-hover: rgba(19, 12, 12, 0.123);
   --background-modifier-active: rgba(19, 12, 12, 0.123);
   --background-modifier-selected: rgba(31, 21, 21, 0.11);
