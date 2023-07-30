@@ -20,7 +20,7 @@
   /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
-  --background-tertiary-alt: #ffc7d4;
+  --background-tertiary-alt: url("https://cdn.discordapp.com/attachments/1118883762256744508/1134721952133677106/91177042_p0.jpg");
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
