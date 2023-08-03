@@ -98,25 +98,25 @@
 .theme-light {
   /* Text */
   --text-normal: #a86373;
-  --header-primary: #a86373;
+  --header-primary: #b9536b;
   --interactive-normal: #a86373;
   --channels-default: #a86373;
 
   --text-muted: #a86373;
   --interactive-muted: #cf92a0;
 
-  --header-secondary: #cf92a0;
+  --header-secondary: #ad546a;
   --interactive-hover: #be7d8c;
   --interactive-active: #b36f7f;
 
   /* Background color */
-  --background-primary: #FFDDEB;
-  --background-secondary: #FFDDEB;
-  --background-secondary-alt: #fdc7c7;
-  --background-tertiary: #ffbbbb;
-  --background-floating: #ffbbbb;
-  --background-accent: #FFDDEB;
-  --channeltextarea-background: var(--background-secondary); 0.6%;
+  --background-primary: #f7e8e8;
+  --background-secondary: #f5dddd;
+  --background-secondary-alt: #ffdede;
+  --background-tertiary: #eed0d0;
+  --background-floating: #f1bebe;
+  --background-accent: #f1bebe;
+  --channeltextarea-background: var(--background-secondary);
   --background-modifier-hover: rgba(19, 12, 12, 0.123);
   --background-modifier-active: rgba(19, 12, 12, 0.123);
   --background-modifier-selected: rgba(31, 21, 21, 0.11);
@@ -142,7 +142,7 @@
 }
 .lookFilled-1H2Jvj:active,
 .lookFilled-1H2Jvj:hover {
-  background-color: #b64a61 !important;
+  background-color: #a04559 !important;
 }
 .lookOutlined-3yKVGo:not(.colorWhite-1H92hK) {
 
